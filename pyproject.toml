@@ -8,7 +8,7 @@ version = "0.0.1"
 authors = [
   { name="Tristan Gaudreault", email="tristan@tristangaudreault.com" },
 ]
-description = "A simple bulk function execution package"
+description = "A simple bulk shell command execution package"
 readme = "README.md"
 requires-python = ">=3.8"
 classifiers = [
